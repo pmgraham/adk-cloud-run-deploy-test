@@ -1,0 +1,3 @@
+google-adk==1.5.0
+dotenv
+requests # not required for deploying the service to Cloud Run but required for the test_request.py script.
